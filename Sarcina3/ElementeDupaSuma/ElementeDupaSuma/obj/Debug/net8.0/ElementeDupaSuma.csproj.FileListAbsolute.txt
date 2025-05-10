@@ -1,0 +1,15 @@
+D:\Bogdan\Alternative Projects\sarcini\Sarcina3\ElementeDupaSuma\ElementeDupaSuma\bin\Debug\net8.0\ElementeDupaSuma.exe
+D:\Bogdan\Alternative Projects\sarcini\Sarcina3\ElementeDupaSuma\ElementeDupaSuma\bin\Debug\net8.0\ElementeDupaSuma.deps.json
+D:\Bogdan\Alternative Projects\sarcini\Sarcina3\ElementeDupaSuma\ElementeDupaSuma\bin\Debug\net8.0\ElementeDupaSuma.runtimeconfig.json
+D:\Bogdan\Alternative Projects\sarcini\Sarcina3\ElementeDupaSuma\ElementeDupaSuma\bin\Debug\net8.0\ElementeDupaSuma.dll
+D:\Bogdan\Alternative Projects\sarcini\Sarcina3\ElementeDupaSuma\ElementeDupaSuma\bin\Debug\net8.0\ElementeDupaSuma.pdb
+D:\Bogdan\Alternative Projects\sarcini\Sarcina3\ElementeDupaSuma\ElementeDupaSuma\obj\Debug\net8.0\ElementeDupaSuma.GeneratedMSBuildEditorConfig.editorconfig
+D:\Bogdan\Alternative Projects\sarcini\Sarcina3\ElementeDupaSuma\ElementeDupaSuma\obj\Debug\net8.0\ElementeDupaSuma.AssemblyInfoInputs.cache
+D:\Bogdan\Alternative Projects\sarcini\Sarcina3\ElementeDupaSuma\ElementeDupaSuma\obj\Debug\net8.0\ElementeDupaSuma.AssemblyInfo.cs
+D:\Bogdan\Alternative Projects\sarcini\Sarcina3\ElementeDupaSuma\ElementeDupaSuma\obj\Debug\net8.0\ElementeDupaSuma.csproj.CoreCompileInputs.cache
+D:\Bogdan\Alternative Projects\sarcini\Sarcina3\ElementeDupaSuma\ElementeDupaSuma\obj\Debug\net8.0\ElementeDupaSuma.sourcelink.json
+D:\Bogdan\Alternative Projects\sarcini\Sarcina3\ElementeDupaSuma\ElementeDupaSuma\obj\Debug\net8.0\ElementeDupaSuma.dll
+D:\Bogdan\Alternative Projects\sarcini\Sarcina3\ElementeDupaSuma\ElementeDupaSuma\obj\Debug\net8.0\refint\ElementeDupaSuma.dll
+D:\Bogdan\Alternative Projects\sarcini\Sarcina3\ElementeDupaSuma\ElementeDupaSuma\obj\Debug\net8.0\ElementeDupaSuma.pdb
+D:\Bogdan\Alternative Projects\sarcini\Sarcina3\ElementeDupaSuma\ElementeDupaSuma\obj\Debug\net8.0\ElementeDupaSuma.genruntimeconfig.cache
+D:\Bogdan\Alternative Projects\sarcini\Sarcina3\ElementeDupaSuma\ElementeDupaSuma\obj\Debug\net8.0\ref\ElementeDupaSuma.dll

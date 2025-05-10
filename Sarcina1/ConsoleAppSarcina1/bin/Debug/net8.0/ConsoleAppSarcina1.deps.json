@@ -1,0 +1,39 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "ConsoleAppSarcina1/1.0.0": {
+        "dependencies": {
+          "Sarcina1": "1.0.0.0"
+        },
+        "runtime": {
+          "ConsoleAppSarcina1.dll": {}
+        }
+      },
+      "Sarcina1/1.0.0.0": {
+        "runtime": {
+          "Sarcina1.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ConsoleAppSarcina1/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Sarcina1/1.0.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

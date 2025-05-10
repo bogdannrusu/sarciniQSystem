@@ -1,0 +1,15 @@
+D:\Bogdan\Alternative Projects\sarcini\Sarcina1\ConsoleAppSarcina1\bin\Release\net8.0\ConsoleAppSarcina1.exe
+D:\Bogdan\Alternative Projects\sarcini\Sarcina1\ConsoleAppSarcina1\bin\Release\net8.0\ConsoleAppSarcina1.deps.json
+D:\Bogdan\Alternative Projects\sarcini\Sarcina1\ConsoleAppSarcina1\bin\Release\net8.0\ConsoleAppSarcina1.runtimeconfig.json
+D:\Bogdan\Alternative Projects\sarcini\Sarcina1\ConsoleAppSarcina1\bin\Release\net8.0\ConsoleAppSarcina1.dll
+D:\Bogdan\Alternative Projects\sarcini\Sarcina1\ConsoleAppSarcina1\bin\Release\net8.0\ConsoleAppSarcina1.pdb
+D:\Bogdan\Alternative Projects\sarcini\Sarcina1\ConsoleAppSarcina1\obj\Release\net8.0\ConsoleAppSarcina1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Bogdan\Alternative Projects\sarcini\Sarcina1\ConsoleAppSarcina1\obj\Release\net8.0\ConsoleAppSarcina1.AssemblyInfoInputs.cache
+D:\Bogdan\Alternative Projects\sarcini\Sarcina1\ConsoleAppSarcina1\obj\Release\net8.0\ConsoleAppSarcina1.AssemblyInfo.cs
+D:\Bogdan\Alternative Projects\sarcini\Sarcina1\ConsoleAppSarcina1\obj\Release\net8.0\ConsoleAppSarcina1.csproj.CoreCompileInputs.cache
+D:\Bogdan\Alternative Projects\sarcini\Sarcina1\ConsoleAppSarcina1\obj\Release\net8.0\ConsoleAppSarcina1.sourcelink.json
+D:\Bogdan\Alternative Projects\sarcini\Sarcina1\ConsoleAppSarcina1\obj\Release\net8.0\ConsoleAppSarcina1.dll
+D:\Bogdan\Alternative Projects\sarcini\Sarcina1\ConsoleAppSarcina1\obj\Release\net8.0\refint\ConsoleAppSarcina1.dll
+D:\Bogdan\Alternative Projects\sarcini\Sarcina1\ConsoleAppSarcina1\obj\Release\net8.0\ConsoleAppSarcina1.pdb
+D:\Bogdan\Alternative Projects\sarcini\Sarcina1\ConsoleAppSarcina1\obj\Release\net8.0\ConsoleAppSarcina1.genruntimeconfig.cache
+D:\Bogdan\Alternative Projects\sarcini\Sarcina1\ConsoleAppSarcina1\obj\Release\net8.0\ref\ConsoleAppSarcina1.dll

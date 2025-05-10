@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Bogdan\\Alternative Projects\\sarcini\\Sarcina1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9FE10E96-712D-46BD-8491-97E8D429C74D}|Sarcina1\\Sarcina1.csproj|d:\\bogdan\\alternative projects\\sarcini\\sarcina1\\sarcina1\\interfaces\\ifigurigeometrice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9FE10E96-712D-46BD-8491-97E8D429C74D}|Sarcina1\\Sarcina1.csproj|solutionrelative:sarcina1\\interfaces\\ifigurigeometrice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F035B49E-0ACF-4F0C-B1E6-259736B0BD8B}|ConsoleAppSarcina1\\ConsoleAppSarcina1.csproj|d:\\bogdan\\alternative projects\\sarcini\\sarcina1\\consoleappsarcina1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F035B49E-0ACF-4F0C-B1E6-259736B0BD8B}|ConsoleAppSarcina1\\ConsoleAppSarcina1.csproj|solutionrelative:consoleappsarcina1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FE10E96-712D-46BD-8491-97E8D429C74D}|Sarcina1\\Sarcina1.csproj|d:\\bogdan\\alternative projects\\sarcini\\sarcina1\\sarcina1\\models\\triunghi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9FE10E96-712D-46BD-8491-97E8D429C74D}|Sarcina1\\Sarcina1.csproj|solutionrelative:sarcina1\\models\\triunghi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FE10E96-712D-46BD-8491-97E8D429C74D}|Sarcina1\\Sarcina1.csproj|d:\\bogdan\\alternative projects\\sarcini\\sarcina1\\sarcina1\\models\\cerc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9FE10E96-712D-46BD-8491-97E8D429C74D}|Sarcina1\\Sarcina1.csproj|solutionrelative:sarcina1\\models\\cerc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Bogdan\\Alternative Projects\\sarcini\\Sarcina1\\ConsoleAppSarcina1\\Program.cs",
+              "RelativeDocumentMoniker": "ConsoleAppSarcina1\\Program.cs",
+              "ToolTip": "D:\\Bogdan\\Alternative Projects\\sarcini\\Sarcina1\\ConsoleAppSarcina1\\Program.cs",
+              "RelativeToolTip": "ConsoleAppSarcina1\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-10T09:16:49.06Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "IFiguriGeometrice.cs",
+              "DocumentMoniker": "D:\\Bogdan\\Alternative Projects\\sarcini\\Sarcina1\\Sarcina1\\Interfaces\\IFiguriGeometrice.cs",
+              "RelativeDocumentMoniker": "Sarcina1\\Interfaces\\IFiguriGeometrice.cs",
+              "ToolTip": "D:\\Bogdan\\Alternative Projects\\sarcini\\Sarcina1\\Sarcina1\\Interfaces\\IFiguriGeometrice.cs",
+              "RelativeToolTip": "Sarcina1\\Interfaces\\IFiguriGeometrice.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-10T07:59:29.906Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Triunghi.cs",
+              "DocumentMoniker": "D:\\Bogdan\\Alternative Projects\\sarcini\\Sarcina1\\Sarcina1\\Models\\Triunghi.cs",
+              "RelativeDocumentMoniker": "Sarcina1\\Models\\Triunghi.cs",
+              "ToolTip": "D:\\Bogdan\\Alternative Projects\\sarcini\\Sarcina1\\Sarcina1\\Models\\Triunghi.cs",
+              "RelativeToolTip": "Sarcina1\\Models\\Triunghi.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-10T07:48:33.989Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Cerc.cs",
+              "DocumentMoniker": "D:\\Bogdan\\Alternative Projects\\sarcini\\Sarcina1\\Sarcina1\\Models\\Cerc.cs",
+              "RelativeDocumentMoniker": "Sarcina1\\Models\\Cerc.cs",
+              "ToolTip": "D:\\Bogdan\\Alternative Projects\\sarcini\\Sarcina1\\Sarcina1\\Models\\Cerc.cs",
+              "RelativeToolTip": "Sarcina1\\Models\\Cerc.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAtwBAAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-10T07:46:58.672Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
